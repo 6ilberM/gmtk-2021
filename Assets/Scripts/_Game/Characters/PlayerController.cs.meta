@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7eae95969fd55654db888aa5408d7567
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameplayCameraTransform: {instanceID: 0}
+  - groundCheckTransform: {instanceID: 0}
+  - inputReader: {fileID: 11400000, guid: 0112b6092f249ff47874d44d45210bf9, type: 2}
+  - characterController: {instanceID: 0}
+  - globalGravity: {instanceID: 0}
+  - maxSpeed: {instanceID: 0}
+  - _rb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
